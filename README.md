@@ -26,10 +26,11 @@ I'm a tech enthusiast who believes in staying at the forefront of the data evolu
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Data Platforms** | Databricks, AWS (Glue, Athena, Redshift), Azure, GCP |
+| **Databases** | AWS Redshift, PostgreSQL, Oracle, MSSQL, MySQL, Firebase |
+| **Data Platforms** | Databricks, AWS (Glue, Athena, Lambda), Azure, GCP |
 | **Data Engineering** | Kafka, Airflow, SAS (Base, Macro), Adobe Real-Time CDP (AEP) |
-| **Languages & Tools** | Python, pySpark, pandas, SQL, Java, Docker, Kubernetes |
-| **Workflow** | Linux, Crontab, Windows Server VM, VS Code, Git |
+| **Languages & Tools** | SAS, Python, pySpark, pandas, SQL, Java, Docker, Kubernetes |
+| **Workflow** | Linux, Crontab, Windows Server, Task Scheduler, VS Code, Git |
 
 ---
 
